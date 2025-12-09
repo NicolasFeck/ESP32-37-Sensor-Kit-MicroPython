@@ -11,5 +11,5 @@ This project documents the transition of the 37 Sensor Kit modules from their or
 * **Code Optimization:** Algorithms improved for ESP32 capabilities (e.g., 12-bit ADC precision, PWM frequencies).
 
 ## Hardware Used
-* Microcontroller: ESP32 (DevKit V1)
-* Sensors: Standard 37 Sensor Kit (Keyes / generic)
+* **Microcontroller:** ESP32 DevKitC (38-pin version) with ESP-WROOM-32 module.
+* **Sensors:** Standard 37 Sensor Kit (Keyes / generic).
